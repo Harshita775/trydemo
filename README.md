@@ -1,4 +1,4 @@
 # trydemo
 This is my first git repository.
 <br>
-Author:Harshita pandey
+Author:Harshita_pandey
